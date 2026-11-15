@@ -4,7 +4,7 @@ A PDF question-answering application built for the **PromptForge GenAI & LLM Vir
 
 The application brings together the main components developed during the first three weeks: Groq chat completions, sentence embeddings, semantic retrieval, and a grounded RAG prompt. Streamlit provides the upload and chat interface.
 
-**Live application:** `ADD_STREAMLIT_COMMUNITY_CLOUD_URL`
+**Live application:** `https://chatplatform.streamlit.app/`
 
 ## Features
 
