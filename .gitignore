@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Secrets
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+
+# Local/generated data
+chroma_db/
+*.sqlite3
+*.db
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
